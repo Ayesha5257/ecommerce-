@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Computers",
+        "brand": "ExampleBrand",
+        "price": "999.99",
+        "stock": 50,
+        "description": "Powerful laptop with a Quad-core is processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+        "image": "/images/lapi.png"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "category": "Mobiles",
+        "brand": "TechGadget",
+        "price": "499.99",
+        "stock": 100,
+        "image": "/images/mobiles.png",
+        "description": "Powerful laptop with a Quad-core is processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display."
+    },
+    {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "category": "Audio",
+        "brand": "TechGadget",
+        "price": "499.99",
+        "stock": 100,
+        "image": "/images/headphone.png",
+        "description": "Powerful laptop with a Quad-core is processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display."
+    },
+    {
+        "id": 4,
+        "name": "Watches",
+        "category": "Wearables",
+        "brand": "FitTech",
+        "price": "199.99",
+        "stock": 100,
+        "image": "/images/watch.png",
+        "description": "Powerful laptop with a Quad-core is processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display."
+    },
+    {
+        "id": 5,
+        "name": "speakers",
+        "category": "Audio",
+        "brand": "SoundBeats",
+        "price": "149.99",
+        "stock": 30,
+        "image": "/images/speakers.png",
+        "description": "Powerful laptop with a Quad-core is processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display."
+    },
+    {
+        "id": 6,
+        "name": "Television",
+        "category": "Video",
+        "brand": "Samsung",
+        "price": "199.99",
+        "stock": 20,
+        "image": "/images/tv.png",
+        "description": "Powerful laptop with a Quad-core is processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display."
+    }
+]
