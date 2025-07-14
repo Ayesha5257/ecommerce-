@@ -12,6 +12,7 @@
     "vite": "^6.0.11"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "lite-server": "^2.6.1"
   }
 }

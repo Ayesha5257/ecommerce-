@@ -5,6 +5,9 @@ import { fileURLToPath } from 'url';
 const __dirname = fileURLToPath(new URL('.', import.meta.url));
 
 export default defineConfig({
+  // 👇 This base is for GitHub Pages
+  base: '/ecommerce-/',
+
   build: {
     rollupOptions: {
       input: {
@@ -17,5 +20,6 @@ export default defineConfig({
     },
   },
 });
+
 
 
